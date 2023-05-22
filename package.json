@@ -1,6 +1,6 @@
 {
   "name": "rest-api-boilerplate-ga",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Gives you all boilerplate code needed to make a basic server with routes for CRUD",
   "main": "index.js",
   "directories": {
